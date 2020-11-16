@@ -1,0 +1,7 @@
+C:\Users\Ivan\source\repos\TryCatch01\TryCatch01\obj\Debug\TryCatch01.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\TryCatch01\TryCatch01\obj\Debug\TryCatch01.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\TryCatch01\TryCatch01\bin\Debug\TryCatch01.exe.config
+C:\Users\Ivan\source\repos\TryCatch01\TryCatch01\bin\Debug\TryCatch01.exe
+C:\Users\Ivan\source\repos\TryCatch01\TryCatch01\bin\Debug\TryCatch01.pdb
+C:\Users\Ivan\source\repos\TryCatch01\TryCatch01\obj\Debug\TryCatch01.exe
+C:\Users\Ivan\source\repos\TryCatch01\TryCatch01\obj\Debug\TryCatch01.pdb
